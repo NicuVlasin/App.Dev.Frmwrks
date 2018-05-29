@@ -3,7 +3,9 @@
 This assignment assesses the following learning outcomes:
 
 LO1	Configure a software project to use framework libraries.
+
 LO2	Design scalable enterprise applications with reusable components.
+
 LO3	Implement advanced data access technologies for a given requirement.
 
 Therefore, it will examine your ability to configure a scalable application, design it following good design practice to ensure reusability of components, and it will access a database – in this assignment, it will be a relational database.
